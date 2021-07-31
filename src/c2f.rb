@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+##!/usr/bin/env ruby
 
 print 'enter celsius value: '
 celsius = (gets).to_i
